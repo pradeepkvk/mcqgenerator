@@ -1,0 +1,9 @@
+langchain_groq
+langchain
+streamlit
+python-dotenv
+PyPDF2
+ipykernel
+
+
+-e .
